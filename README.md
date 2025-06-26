@@ -28,4 +28,4 @@ Este projeto tem como objetivo analisar dados fictícios de acidentes de trânsi
 ## 📌 Autor
 
 Jefferson Fagundes – Analista de Dados Jr.  
-Contato: jeffersonfagundes.ti@gmail.com | [LinkedIn](https://www.linkedin.com/in/jeffersonfagundes)
+Contato: e-mailJesk8boy@outlook.com| [LinkedIn](https://www.linkedin.com/in/jeffersonfagundes)
