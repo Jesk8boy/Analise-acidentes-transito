@@ -1,0 +1,11 @@
+Data,Estado,Tipo_Veiculo,Acidentes
+2025-01-10,SP,Carro,120
+2025-01-12,RJ,Moto,80
+2025-02-05,MG,Caminhão,40
+2025-02-14,SP,Carro,150
+2025-03-01,RS,Moto,60
+2025-03-15,BA,Carro,100
+2025-04-10,SP,Ônibus,20
+2025-04-20,RJ,Caminhão,35
+2025-05-05,MG,Carro,90
+2025-05-18,BA,Moto,75
